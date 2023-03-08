@@ -1,4 +1,4 @@
-# AlexisZini
+# AlexisZ ini
 <h1 align="center">Hi 👋, I'm Alexis Nuñez Zini</h1>
 <h3 align="center">A passionate Tester Automation from Argentina</h3>
 
